@@ -9,4 +9,4 @@ branches:
 notifications: # 성공 실패 여부 알림 
   email:
     recipients:
-      - hsg99091@gmail.com
+      - hsg99091@gmail.com # 빌드성공시 이메일 주소
