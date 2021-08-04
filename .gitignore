@@ -2,8 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 config/
-venom2.mp4
 findpwd/
+venom2.mp4
 blackwidow.mp4
 waves.mp4
 ### Node ###

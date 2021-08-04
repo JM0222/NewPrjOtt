@@ -10,7 +10,7 @@
 ## 🎬ACC
 > Use OTT service?
 > Check out the review and score of various contents through ACC!
-<img src="https://user-images.githubusercontent.com/76729186/126924752-2ac46163-4352-4382-957e-f27cfdcf3628.png">
+<img src="https://user-images.githubusercontent.com/76729186/128103741-7b5191ac-d4ae-4f0b-a63d-8af340e848d8.png">
 
 ## ⛏Skill
 ☑ AWS EC2
