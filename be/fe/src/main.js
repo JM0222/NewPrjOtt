@@ -9,7 +9,7 @@ import Directives from './plugins/directives'
 import io from 'socket.io-client'; 
 import i18n from './i18n'
 const socket = io('http://13.125.9.12'); 
-
+// 0804
 Vue.prototype.$socket = socket; 
 Vue.use(Directives)
 Vue.use(VueMaterial)

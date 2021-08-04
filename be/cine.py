@@ -2,7 +2,7 @@ import requests, json, time
 import schedule
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
-
+# 0804
 # mongodb connect
 mongodb_URI = "mongodb://13.125.9.12:27017/nemv"
 client = MongoClient(mongodb_URI)
