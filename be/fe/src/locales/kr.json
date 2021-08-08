@@ -10,7 +10,8 @@
       "keepLogin":"로그인 유지(7일)",
       "signIn":"회원가입",
       "submit":"제출",
-      "sendCode":"인증코드 전송"
+      "sendCode":"인증코드 전송",
+      "warning":"비밀번호 암호화가 되지않으니 유의해주세요"
     },
     "home": {
       "boxOffice": "박스오피스 TOP7",

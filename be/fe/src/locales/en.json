@@ -10,7 +10,8 @@
     "keepLogin":"Keep Login (default 7days)",
     "signIn":"Sign-in",
     "submit":"submit",
-    "sendCode":"Send Code"
+    "sendCode":"Send Code",
+    "warning":"Password encryption is not possible, so please be careful"
 
   },
   "home": {
