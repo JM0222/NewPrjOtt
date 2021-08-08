@@ -10,7 +10,8 @@
     "keepLogin":"自動ログイン(7日)",
     "signIn":"新規会員",
     "submit":"送信",
-    "sendCode":"認証コード送信"
+    "sendCode":"認証コード送信",
+    "warning":"パスワードの暗号化ができませんのでご注意ください"
   },
   "home": {
     "boxOffice": "週間ランキング TOP7",

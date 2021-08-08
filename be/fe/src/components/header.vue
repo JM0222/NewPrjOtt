@@ -440,6 +440,7 @@
                                     v-model="remember"
                                     :label="$t('nav.keepLogin')"
                                 ></v-checkbox>
+                                <small>{{$t('nav.warning')}}</small>
                             </v-form>
                             </validation-observer>
                             <v-col >
